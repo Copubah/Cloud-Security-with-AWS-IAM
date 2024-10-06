@@ -18,5 +18,15 @@
 4. Secure access to AWS resources (like S3) for the EC2 instance using IAM roles instead of static credentials.
 
 
+## Case Scenario :I will set up two EC2 instances to test the effectiveness of permission settings ,setting up AWS IAM and using tags to label them
+## Steps
+- Log into your AWS user account and navigate to EC2(use the region closer to you/users)
+- Click on Launch Instance and choose Launch Instance from the drop-down(the EC2 name should be unique in that region)
+- Add tags;these are key-value pairs that you can use to organize, manage, and categorize your AWS resources
+- Select an AMI that meets your needs (e.g., Amazon Linux 2, Ubuntu, Windows, etc)
+
+
+
+
 
 
