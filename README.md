@@ -19,6 +19,16 @@
 
 
 ## Case Scenario :I will set up two EC2 instances to test the effectiveness of permission settings ,setting up AWS IAM and using tags to label them
+## Diagrams
+![First instance](./Assets/instance%201.png)
+
+![All instances](./Assets/all%20instances.png)
+
+
+![ tags](./Assets/tags.png)
+
+
+
 ## Steps
 - Log into your AWS user account and navigate to EC2(use the region closer to you/users)
 - Click on Launch Instance and choose Launch Instance from the drop-down(the EC2 name should be unique in that region)
